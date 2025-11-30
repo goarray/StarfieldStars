@@ -116,14 +116,8 @@ Produces:
 
 ---
 
-## Methods
-
-* Data retrieved via the **astroquery SIMBAD interface** (CDS, Strasbourg).
-
----
-
 ## Attribution
 
 * Data retrieved via the **[astroquery](https://astroquery.readthedocs.io) SIMBAD interface** (CDS, Strasbourg).
-This work makes use of the **[SIMBAD database](https://simbad.cds.unistra.fr/simbad/)**, operated at CDS, Strasbourg, France.
-Exoplanet data sourced from [exoplanet.eu](https://exoplanet.eu).
+* This work makes use of the **[SIMBAD database](https://simbad.cds.unistra.fr/simbad/)**, operated at CDS, Strasbourg, France.
+* Exoplanet data sourced from [exoplanet.eu](https://exoplanet.eu).
