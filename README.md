@@ -67,16 +67,25 @@ These files compare SIMBAD-matched data (`NewStarsData.csv`) against several in-
 
 ## Other Files
 
-### `MatchedPlanets.csv`
+### `MatchExoplanets.py`
+* Derived from NewStarsData.csv and the [exoplanet.eu](https://exoplanet.eu) catalog.
+* Matches Starfield stars to real exoplanets from the exoplanet.eu catalog.
 
-* Derived from the [exoplanet.eu](https://exoplanet.eu) catalog.
+### `MatchedPlanets.csv`
 * Lists confirmed exoplanets orbiting stars that also appear in *Starfield*.
+
+---
+
+Here’s a corrected **Usage** section that matches your *current* workflow and file relationships.
+It stays concise, accurate, and consistent with the earlier sections.
 
 ---
 
 ## Usage
 
-Run `SimbadLookup.py` with a base game star file:
+### **1. Run the first-pass SIMBAD lookup**
+
+Generates the primary astronomical dataset.
 
 ```bash
 python SimbadLookup.py --file stars.csv
@@ -84,14 +93,37 @@ python SimbadLookup.py --file stars.csv
 
 Produces:
 
-* `NewStarsData.csv` — SIMBAD-matched data
-* `Corrections_Report.csv` — provenance record
+* `NewStarsData.csv` — SIMBAD-matched star data
+* `Corrections_Report.csv` — provenance and correction log
 
-`NewStars.csv`:
+---
 
-* Derived from `NewStarsData.csv`
-* Integrates STDT, PNDT, and additional reconciliation scripts
-* Represents the **final**, game-relevant star dataset
+### **2. Run the second-pass comparison (optional)**
+
+Compares SIMBAD results to in-game STDT form values.
+
+```bash
+python StarFormToNewStarsCompare.py
+```
+
+Produces:
+
+* `NewStarsData_WithMismatches.csv` — SIMBAD vs. STDT discrepancies
+* `StarMismatchReport.csv` — consolidated mismatch summary
+
+---
+
+### **3. (Optional) Match real exoplanets**
+
+Cross-reference SIMBAD-matched stars with the exoplanet.eu catalog.
+
+```bash
+python MatchExoplanets.py
+```
+
+Produces:
+
+* `MatchedPlanets.csv` — confirmed exoplanets associated with *Starfield* stars
 
 ---
 
