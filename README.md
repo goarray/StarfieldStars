@@ -23,6 +23,9 @@ This repository contains data and scripts used to reconcile **Starfieldâ€™s inâ€
 - Serve as the foundation for matching and reconciliation.  
 - Copies included for reference.
 
+### `starsDebug.csv`
+- Query test file.
+
 ## Methods
 - Data retrieval via **astroquery SIMBAD interface** (CDS, Strasbourg). 
 - Variance between game and catalog values flagged for transparency.
