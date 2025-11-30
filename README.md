@@ -68,7 +68,7 @@ These files compare SIMBAD-matched data (`NewStarsData.csv`) against several in-
 ## Other Files
 
 ### `MatchExoplanets.py`
-* Derived from NewStarsData.csv and the [exoplanet.eu](https://exoplanet.eu) catalog.
+* Derived from NewStarsData.csv and the [exoplanet.eu](https://exoplanet.eu) catalog as (`exoplanet.eu.csv`).
 * Matches Starfield stars to real exoplanets from the exoplanet.eu catalog.
 
 ### `MatchedPlanets.csv`
