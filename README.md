@@ -61,7 +61,7 @@ These files compare SIMBAD-matched data (`NewStarsData.csv`) against several in-
 
 ### `StarMismatchReport.csv`
 
-* Consolidated report summarizing mismatches and reconciliation notes.
+* Consolidated report summarizing mismatches between real star data and game star data.
 
 ---
 
