@@ -76,16 +76,9 @@ These files compare SIMBAD-matched data (`NewStarsData.csv`) against several in-
 
 ---
 
-Here’s a corrected **Usage** section that matches your *current* workflow and file relationships.
-It stays concise, accurate, and consistent with the earlier sections.
-
----
-
 ## Usage
 
 ### **1. Run the first-pass SIMBAD lookup**
-
-Generates the primary astronomical dataset.
 
 ```bash
 python SimbadLookup.py --file stars.csv
@@ -100,8 +93,6 @@ Produces:
 
 ### **2. Run the second-pass comparison (optional)**
 
-Compares SIMBAD results to in-game STDT form values.
-
 ```bash
 python StarFormToNewStarsCompare.py
 ```
@@ -114,8 +105,6 @@ Produces:
 ---
 
 ### **3. (Optional) Match real exoplanets**
-
-Cross-reference SIMBAD-matched stars with the exoplanet.eu catalog.
 
 ```bash
 python MatchExoplanets.py
@@ -130,11 +119,11 @@ Produces:
 ## Methods
 
 * Data retrieved via the **astroquery SIMBAD interface** (CDS, Strasbourg).
-* Variance between game values and catalog data is flagged for transparency.
 
 ---
 
 ## Attribution
 
-This work makes use of the **SIMBAD database**, operated at CDS, Strasbourg, France.
+* Data retrieved via the **[astroquery](https://astroquery.readthedocs.io) SIMBAD interface** (CDS, Strasbourg).
+This work makes use of the **[SIMBAD database](https://simbad.cds.unistra.fr/simbad/)**, operated at CDS, Strasbourg, France.
 Exoplanet data sourced from [exoplanet.eu](https://exoplanet.eu).
