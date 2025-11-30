@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-FINAL PRODUCTION SIMBAD ENRICHER — 2025 GOLD MASTER
+FINAL PRODUCTION SIMBAD ENRICHER - 2025 GOLD MASTER
 Input : starsDebug.csv (CLEAN, corrected, ready)
 Output: NewStarsData.csv + Mismatches_Report.csv + Binary_Systems.csv
 No hacks. No overrides. Pure science.
@@ -20,7 +20,7 @@ from typing import Dict, Any
 from astroquery.exceptions import NoResultsWarning
 
 # ----------------------------------------------------------------------
-# SIMBAD SETUP — MAXIMUM COMPATIBILITY & DATA (2025+)
+# SIMBAD SETUP - MAXIMUM COMPATIBILITY & DATA (2025+)
 # ----------------------------------------------------------------------
 warnings.filterwarnings("ignore", category=NoResultsWarning)
 custom_simbad = Simbad()
@@ -157,7 +157,7 @@ def smart_normalize_gl(val):
     # Strip common prefixes (GJ, Gl, gj, gl, wo, nn)
     raw = re.sub(r'^(gl|gj|nn|wo)\s*', '', val, flags=re.IGNORECASE).strip()
 
-    # Normalize SIMBAD-style system aliases: 448.0 → 448
+    # Normalize SIMBAD-style system aliases: 448.0 -> 448
     m = re.match(r'^(\d+)\.0$', raw)
     if m:
         raw = m.group(1)
@@ -217,7 +217,7 @@ def cartesian(dist, ra_rad, dec_rad):
             dist * sin(dec_rad))
 
 def proper_to_cartesian_pm(dist_pc, ra_rad, dec_rad, pmra_masyr, pmdec_masyr, rv_kms):
-    # Convert mas/yr → rad/yr
+    # Convert mas/yr -> rad/yr
     k = 4.74047  # km/s per mas/yr at 1 pc
     vx = rv_kms * cos(dec_rad) * cos(ra_rad) - k * dist_pc * (pmra_masyr * sin(ra_rad) + pmdec_masyr * cos(ra_rad) * sin(dec_rad))
     vy = rv_kms * cos(dec_rad) * sin(ra_rad) + k * dist_pc * (pmra_masyr * cos(ra_rad) - pmdec_masyr * sin(ra_rad) * sin(dec_rad))
@@ -236,15 +236,15 @@ def get_BC(spect, band):
     return BC_TABLE.get(letter, {}).get(band, 0.0)
 
 def temp_from_BV(ci):
-    # Ballesteros formula (valid for B–V)
+    # Ballesteros formula (valid for B-V)
     return 4600 * (1 / (0.92 * ci + 1.7) + 1 / (0.92 * ci + 0.62))
 
 def temp_from_VK(ci):
-    # Approximate calibration for V–K (Alonso et al. 1996)
+    # Approximate calibration for V-K (Alonso et al. 1996)
     return 8800 - 2000 * ci + 200 * ci**2
 
 def temp_from_JK(ci):
-    # Approximate calibration for J–K (Mann et al. 2015)
+    # Approximate calibration for J-K (Mann et al. 2015)
     return 3700 + 1200 * (0.9 - ci)  # crude linear fit
 
 TEMP_FUNCS = {
@@ -292,7 +292,7 @@ def estimate_lifespan_gyr(spect: str, mass: float = np.nan) -> float:
         return np.nan
 
     m_high, m_low = class_mass_ranges[sp_class]
-    mass_est = m_high - (sp_num / 9.0) * (m_high - m_low)  # subclass 0 → high mass, 9 → low mass
+    mass_est = m_high - (sp_num / 9.0) * (m_high - m_low)  # subclass 0 -> high mass, 9 -> low mass
 
     # Compute lifespan
     t_ms = 10.0 * (1.0 / mass_est)**2.5
@@ -334,7 +334,7 @@ def assign_siblings(rows, sep=' '):
             row['sibling'] = sep.join(siblings) if siblings else np.nan
 
 # ----------------------------------------------------------------------
-# Load Input — NOW ASSUMED CLEAN
+# Load Input - NOW ASSUMED CLEAN
 # ----------------------------------------------------------------------
 df_in = pd.read_csv(args.file, skiprows=1).fillna('')
 df_in.columns = df_in.columns.str.strip()
@@ -351,7 +351,7 @@ for new_id, query_name in additional_systems.items():
 
 df_in = pd.concat([df_in, pd.DataFrame(extra_rows)], ignore_index=True)
 
-# RA in hours → degrees
+# RA in hours -> degrees
 if 'ra' in df_in.columns:
     df_in['ra'] = pd.to_numeric(df_in['ra'], errors='coerce') * 15.0
 if 'dec' in df_in.columns:
@@ -465,7 +465,7 @@ for _, row_in in df_in.iterrows():
                 table = Simbad.query_object(query)
                 if table is not None and len(table):
                     used_identifier = prefix or 'gl'
-                    print(f" → {query}")
+                    print(f" -> {query}")
                     break
             except Exception:
                 pass
@@ -537,11 +537,11 @@ for _, row_in in df_in.iterrows():
             table = Simbad.query_region(coord, radius=SEARCH_RADIUS)
             if table and len(table):
                 table = table[0:1]
-                print(f" → coord → {table[0]['main_id']}")
+                print(f" -> coord -> {table[0]['main_id']}")
         except: pass
 
     if not table or len(table) == 0:
-        print(" → FAILED")
+        print(" -> FAILED")
         failed.append(star_id)
         output_rows.append(row)
         continue
@@ -723,7 +723,7 @@ for _, row_in in df_in.iterrows():
     row['lifespan'] = estimate_lifespan_gyr(row.get('spect', ''), row.get('mass', np.nan))
 
     output_rows.append(row)
-    print(" → Success")
+    print(" -> Success")
         
 # Post-processing GJ53 'system' overrides for GJ 53 A/B components based on wikipedia values
 for row in output_rows:
