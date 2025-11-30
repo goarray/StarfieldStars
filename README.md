@@ -1,6 +1,6 @@
 # Starfield Cartography Data
 
-This repository contains data and scripts used to reconcile **Starfield’s in‑game star catalog** with real astronomical sources.
+This repository contains data and scripts used to reconcile **Starfield’s in‑game stars** with real astronomical sources.
 
 ## Files
 
