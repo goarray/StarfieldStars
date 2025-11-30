@@ -6,9 +6,9 @@ This repository contains data and scripts used to reconcile **Starfield’s in-g
 
 ### `NewStars.csv`
 
-* Updated, game-ready star table.
+* Derived from `NewStarsData.csv`.
+* Updated, hand edited, game-ready star table.
 * Incorporates additional *Starfield* metadata.
-* Derived from `NewStarsData.csv` and aligned with in-game STDT form values.
 
 ---
 
