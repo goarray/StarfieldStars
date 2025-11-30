@@ -1,0 +1,838 @@
+StarID,Name,Field,Game Value,Catalog Value
+65147,Al-Battani,SpectralClass,G5,G9
+65147,Al-Battani,Magnitude,6.116,6.731
+65147,Al-Battani,StarMass,0.93,0.66
+65147,Al-Battani,StarRadius_Rsun,0.931,0.842
+65147,Al-Battani,Temperature_K,5575,4166
+65147,Al-Battani,DistanceFromOrigin_pc,15.4491,16.5888
+65147,Al-Battani,InnerHZ,0.42,0.368208500114653
+65147,Al-Battani,OuterHZ,1.0,1.052024286041866
+59020,Alchiba,SpectralClass,F0,F1
+59020,Alchiba,Magnitude,3.149,3.133
+59020,Alchiba,StarMass,1.39,1.48
+59020,Alchiba,StarRadius_Rsun,1.3,1.358
+59020,Alchiba,Temperature_K,7040,7337
+59020,Alchiba,DistanceFromOrigin_pc,14.9365,14.9769
+59020,Alchiba,InnerHZ,1.7,1.84374334524144
+59020,Alchiba,OuterHZ,4.06,5.267838129261257
+60776,Algorab,SpectralClass,B9,A0
+60776,Algorab,Magnitude,0.813,0.842
+60776,Algorab,StarMass,2.74,2.63
+60776,Algorab,StarRadius_Rsun,2.599,1.976
+60776,Algorab,Temperature_K,10500,10795
+60776,Algorab,DistanceFromOrigin_pc,26.6313,26.2743
+60776,Algorab,InnerHZ,10.01,5.805110496509646
+60776,Algorab,OuterHZ,24.98,16.58602999002756
+5325,Alpha Andraste,Magnitude,5.779,5.78
+5325,Alpha Andraste,StarMass,0.93,0.74
+5325,Alpha Andraste,StarRadius_Rsun,0.931,0.789
+5325,Alpha Andraste,Temperature_K,5575,5306
+5325,Alpha Andraste,DistanceFromOrigin_pc,7.5531,7.6753
+5325,Alpha Andraste,InnerHZ,0.5,0.95
+5325,Alpha Andraste,OuterHZ,1.17,2.36
+71456,Alpha Centauri,Magnitude,4.379,4.362
+71456,Alpha Centauri,StarMass,1.1,1.12
+71456,Alpha Centauri,StarRadius_Rsun,1.24,1.339
+71456,Alpha Centauri,Temperature_K,5790,5568
+71456,Alpha Centauri,DistanceFromOrigin_pc,1.3246,1.3475
+71456,Alpha Centauri,InnerHZ,0.93,1.046658850574112
+71456,Alpha Centauri,OuterHZ,2.19,2.990453858783177
+85407,Alpha Marae,Magnitude,4.243,4.897
+85407,Alpha Marae,StarMass,1.1,0.96
+85407,Alpha Marae,StarRadius_Rsun,1.7,0.998
+85407,Alpha Marae,Temperature_K,5500,5571
+85407,Alpha Marae,DistanceFromOrigin_pc,16.3418,16.4709
+85407,Alpha Marae,InnerHZ,1.01,0.7812610500247923
+85407,Alpha Marae,OuterHZ,2.4,2.232174428642264
+119060,Alpha Ternion,SpectralClass,G8,G1
+119060,Alpha Ternion,Magnitude,5.369,3.623
+119060,Alpha Ternion,StarMass,0.84,1.32
+119060,Alpha Ternion,DistanceFromOrigin_pc,24.3293,27.8918
+119060,Alpha Ternion,InnerHZ,0.61,1.471486312291189
+119060,Alpha Ternion,OuterHZ,1.45,4.204246606546255
+57270,Alpha Tirna,SpectralClass,G3,G2
+57270,Alpha Tirna,Magnitude,5.066,5.033
+57270,Alpha Tirna,StarMass,0.98,0.96
+57270,Alpha Tirna,StarRadius_Rsun,0.978,0.936
+57270,Alpha Tirna,Temperature_K,5745,5706
+57270,Alpha Tirna,DistanceFromOrigin_pc,9.2209,9.3195
+57270,Alpha Tirna,InnerHZ,0.68,0.7685459306363404
+57270,Alpha Tirna,OuterHZ,1.6,2.1958455161038297
+97338,Altair,StarMass,1.79,1.92
+97338,Altair,StarRadius_Rsun,1.799,1.911
+97338,Altair,Temperature_K,6900,8011
+97338,Altair,DistanceFromOrigin_pc,5.1293,5.1295
+97338,Altair,InnerHZ,2.34,3.092829993926581
+97338,Altair,OuterHZ,5.39,8.83665712550452
+86705,Andromas,Magnitude,3.822,3.815
+86705,Andromas,StarMass,0.93,1.27
+86705,Andromas,StarRadius_Rsun,0.931,1.808
+86705,Andromas,Temperature_K,5590,5436
+86705,Andromas,DistanceFromOrigin_pc,8.3104,8.3386
+86705,Andromas,InnerHZ,1.22,1.3470082881339869
+86705,Andromas,OuterHZ,2.88,3.848595108954248
+72955,Aranae,SpectralClass,K5,M1
+72955,Aranae,Magnitude,9.146,9.201
+72955,Aranae,StarMass,0.69,0.47
+72955,Aranae,StarRadius_Rsun,0.741,0.513
+72955,Aranae,Temperature_K,4375,3803
+72955,Aranae,DistanceFromOrigin_pc,5.9254,5.9252
+72955,Aranae,InnerHZ,0.11,0.1870613738277105
+72955,Aranae,OuterHZ,0.28,0.534461068079173
+75150,Archimedes,SpectralClass,F5,F4
+75150,Archimedes,Magnitude,2.447,2.617
+75150,Archimedes,StarMass,1.3,1.67
+75150,Archimedes,StarRadius_Rsun,1.201,2.076
+75150,Archimedes,Temperature_K,6675,6684
+75150,Archimedes,DistanceFromOrigin_pc,31.2304,28.8832
+75150,Archimedes,InnerHZ,2.15,2.3384312706833748
+75150,Archimedes,OuterHZ,4.98,6.6812322019525
+69451,Arcturus,SpectralClass,K2,K1
+69451,Arcturus,StarMass,1.08,3.43
+69451,Arcturus,StarRadius_Rsun,25.393,21.636
+69451,Arcturus,Temperature_K,4280,4251
+69451,Arcturus,DistanceFromOrigin_pc,11.2574,11.2575
+69451,Arcturus,InnerHZ,8.66,9.856429595753523
+69451,Arcturus,OuterHZ,21.59,28.16122741643865
+69793,Bannoc,Magnitude,5.981,6.016
+69793,Bannoc,StarMass,0.76,0.8
+69793,Bannoc,StarRadius_Rsun,0.829,0.813
+69793,Bannoc,Temperature_K,5035,5115
+69793,Bannoc,DistanceFromOrigin_pc,20.8811,20.4493
+69793,Bannoc,InnerHZ,0.47,0.5359905734626768
+69793,Bannoc,OuterHZ,1.12,1.5314016384647908
+118959,Bannoc Secondus,Magnitude,13.512,12.944
+118959,Bannoc Secondus,StarMass,0.26,0.2
+118959,Bannoc Secondus,StarRadius_Rsun,0.382,0.092
+118959,Bannoc Secondus,Temperature_K,3140,3794
+118959,Bannoc Secondus,DistanceFromOrigin_pc,20.7814,20.4739
+118959,Bannoc Secondus,InnerHZ,0.02,0.0333794842868623
+118959,Bannoc Secondus,OuterHZ,0.04,0.0953699551053211
+65515,Bara,SpectralClass,G5,G4
+65515,Bara,Magnitude,3.695,3.682
+65515,Bara,StarMass,0.93,1.31
+65515,Bara,StarRadius_Rsun,0.931,1.832
+65515,Bara,Temperature_K,5575,5568
+65515,Bara,DistanceFromOrigin_pc,17.9856,18.0992
+65515,Bara,InnerHZ,1.29,1.431984770482313
+65515,Bara,OuterHZ,3.06,4.091385058520894
+90582,Bardeen,SpectralClass,G8,G6
+90582,Bardeen,Magnitude,5.127,3.476
+90582,Bardeen,StarMass,0.84,1.37
+90582,Bardeen,StarRadius_Rsun,0.883,3.267
+90582,Bardeen,Temperature_K,5320,4372
+90582,Bardeen,DistanceFromOrigin_pc,25.9804,26.0792
+90582,Bardeen,InnerHZ,0.68,1.5746091729497422
+90582,Bardeen,OuterHZ,1.62,4.498883351284978
+87665,Barnard's Star,Magnitude,13.235,13.201
+87665,Barnard's Star,StarMass,0.14,0.19
+87665,Barnard's Star,StarRadius_Rsun,0.196,0.097
+87665,Barnard's Star,Temperature_K,3130,3479
+87665,Barnard's Star,DistanceFromOrigin_pc,1.8228,1.8282
+87665,Barnard's Star,InnerHZ,0.02,0.0296559034157782
+87665,Barnard's Star,OuterHZ,0.05,0.0847311526165093
+69192,Bel,SpectralClass,G0,G8
+69192,Bel,Magnitude,5.333,5.348
+69192,Bel,StarMass,1.1,0.89
+69192,Bel,StarRadius_Rsun,1.051,0.886
+69192,Bel,Temperature_K,6000,5455
+69192,Bel,DistanceFromOrigin_pc,22.051,21.7887
+69192,Bel,InnerHZ,0.59,0.6648292521064115
+69192,Bel,OuterHZ,1.39,1.8995121488754612
+103883,Bessel,Magnitude,8.331,8.312
+103883,Bessel,StarMass,0.6,0.47
+103883,Bessel,StarRadius_Rsun,0.697,0.461
+103883,Bessel,Temperature_K,4045,4000
+103883,Bessel,DistanceFromOrigin_pc,3.4974,3.4964
+103883,Bessel,InnerHZ,0.16,0.1861679905380389
+103883,Bessel,OuterHZ,0.41,0.531908544394397
+119221,Beta Andraste,SpectralClass,M3,M4
+119221,Beta Andraste,Magnitude,11.609,11.6
+119221,Beta Andraste,StarMass,0.31,0.17
+119221,Beta Andraste,StarRadius_Rsun,0.444,0.29
+119221,Beta Andraste,Temperature_K,3280,3025
+119221,Beta Andraste,DistanceFromOrigin_pc,7.5529,7.6753
+119221,Beta Andraste,InnerHZ,0.04,0.08
+119221,Beta Andraste,OuterHZ,0.1,0.17
+119159,Beta Marae,Magnitude,5.12,4.925
+119159,Beta Marae,StarMass,0.84,0.96
+119159,Beta Marae,StarRadius_Rsun,22.019,1.012
+119159,Beta Marae,Temperature_K,5500,5498
+119159,Beta Marae,DistanceFromOrigin_pc,16.4436,17.0937
+119159,Beta Marae,InnerHZ,0.67,0.7714645088664553
+119159,Beta Marae,OuterHZ,1.6,2.204184311047015
+119225,Beta Ternion,SpectralClass,F6,F4
+119225,Beta Ternion,Magnitude,2.909,2.921
+119225,Beta Ternion,StarMass,1.29,1.56
+119225,Beta Ternion,StarRadius_Rsun,1.18,1.92
+119225,Beta Ternion,Temperature_K,6510,6481
+119225,Beta Ternion,DistanceFromOrigin_pc,24.3293,28.0445
+119225,Beta Ternion,InnerHZ,1.76,2.0329523890071863
+119225,Beta Ternion,OuterHZ,4.07,5.8084353971633895
+118771,Beta Tirna,SpectralClass,M5,M4
+118771,Beta Tirna,Magnitude,15.172,15.586
+118771,Beta Tirna,StarMass,0.21,0.11
+118771,Beta Tirna,StarRadius_Rsun,0.32,0.016
+118771,Beta Tirna,Temperature_K,3000,5019
+118771,Beta Tirna,DistanceFromOrigin_pc,9.2396,9.3089
+118771,Beta Tirna,InnerHZ,0.01,0.009889608927737
+118771,Beta Tirna,OuterHZ,0.02,0.02825602550782
+73018,Bohr,Magnitude,5.428,3.611
+73018,Bohr,StarMass,0.93,1.33
+73018,Bohr,StarRadius_Rsun,0.931,3.286
+73018,Bohr,Temperature_K,5575,4226
+73018,Bohr,DistanceFromOrigin_pc,35.0263,34.7035
+73018,Bohr,InnerHZ,0.58,1.479289197617921
+73018,Bohr,OuterHZ,1.38,4.226540564622631
+118818,Bolivar,SpectralClass,M3,M2
+118818,Bolivar,Magnitude,10.555,10.127
+118818,Bolivar,StarMass,0.31,0.38
+118818,Bolivar,StarRadius_Rsun,0.444,0.378
+118818,Bolivar,Temperature_K,3280,3581
+118818,Bolivar,DistanceFromOrigin_pc,12.0482,19.4395
+118818,Bolivar,InnerHZ,0.06,0.1221700858357097
+118818,Bolivar,OuterHZ,0.16,0.3490573881020278
+81444,Bradbury,Temperature_K,5820,5815
+118021,Carinae,Magnitude,8.636,8.646
+118021,Carinae,StarMass,0.57,0.44
+118021,Carinae,StarRadius_Rsun,0.661,0.402
+118021,Carinae,Temperature_K,4045,3967
+118021,Carinae,DistanceFromOrigin_pc,5.9532,5.927
+118021,Carinae,InnerHZ,0.14,0.1596306482334267
+118021,Carinae,OuterHZ,0.36,0.4560875663812193
+86475,Celebrai,Magnitude,0.762,0.718
+86475,Celebrai,StarMass,1.13,2.71
+86475,Celebrai,StarRadius_Rsun,12.416,12.894
+86475,Celebrai,Temperature_K,4870,4348
+86475,Celebrai,DistanceFromOrigin_pc,25.094,25.4917
+86475,Celebrai,InnerHZ,5.18,6.147219078271712
+86475,Celebrai,OuterHZ,12.58,17.56348308077632
+56075,Charybdis,SpectralClass,G0,F9
+56075,Charybdis,Magnitude,4.431,4.92
+56075,Charybdis,StarMass,1.1,1.0
+56075,Charybdis,StarRadius_Rsun,1.051,1.699
+56075,Charybdis,Temperature_K,6000,4449
+56075,Charybdis,DistanceFromOrigin_pc,23.3263,23.4447
+56075,Charybdis,InnerHZ,0.98,0.8478589286474819
+56075,Charybdis,OuterHZ,2.48,2.4224540818499483
+72432,Cheyenne,SpectralClass,G8,G7
+72432,Cheyenne,Magnitude,5.406,5.527
+72432,Cheyenne,StarMass,0.84,0.85
+72432,Cheyenne,StarRadius_Rsun,0.883,0.797
+72432,Cheyenne,Temperature_K,5320,5518
+72432,Cheyenne,DistanceFromOrigin_pc,6.7123,6.7536
+72432,Cheyenne,InnerHZ,0.6,0.612087679816143
+72432,Cheyenne,OuterHZ,1.42,1.7488219423318372
+76816,Copernicus,SpectralClass,G5,G2
+76816,Copernicus,Magnitude,5.03,3.45
+76816,Copernicus,StarMass,0.93,1.38
+76816,Copernicus,StarRadius_Rsun,0.931,3.217
+76816,Copernicus,Temperature_K,5575,4432
+76816,Copernicus,DistanceFromOrigin_pc,14.6587,14.7927
+76816,Copernicus,InnerHZ,0.7,1.593411894872595
+76816,Copernicus,OuterHZ,1.66,4.5526054139217
+119105,Decaran,SpectralClass,G9,M0
+119105,Decaran,Magnitude,10.227,9.645
+119105,Decaran,StarMass,0.81,0.43
+119105,Decaran,StarRadius_Rsun,0.867,0.2
+119105,Decaran,Temperature_K,5235,5501
+119105,Decaran,DistanceFromOrigin_pc,23.2558,32.8825
+119105,Decaran,InnerHZ,0.07,0.1524910631104211
+119105,Decaran,OuterHZ,0.16,0.4356887517440603
+98924,Delta Pavonis,SpectralClass,G5,G8
+98924,Delta Pavonis,Magnitude,4.62,4.634
+98924,Delta Pavonis,StarMass,0.99,1.05
+98924,Delta Pavonis,StarRadius_Rsun,1.198,1.254
+98924,Delta Pavonis,Temperature_K,5570,5404
+98924,Delta Pavonis,DistanceFromOrigin_pc,6.1082,6.0993
+98924,Delta Pavonis,InnerHZ,0.84,0.9237537646025604
+98924,Delta Pavonis,OuterHZ,1.99,2.6392964702930297
+75493,Delta Vulpes,SpectralClass,K2,K1
+75493,Delta Vulpes,Magnitude,6.012,5.954
+75493,Delta Vulpes,StarMass,0.73,0.81
+75493,Delta Vulpes,StarRadius_Rsun,0.799,0.892
+75493,Delta Vulpes,Temperature_K,4870,4951
+75493,Delta Vulpes,DistanceFromOrigin_pc,20.4919,20.6846
+75493,Delta Vulpes,InnerHZ,0.46,0.5514751047818832
+75493,Delta Vulpes,OuterHZ,1.12,1.5756431565196662
+57459,Denebola,Magnitude,1.933,1.923
+57459,Denebola,StarMass,1.78,2.05
+57459,Denebola,StarRadius_Rsun,1.728,1.681
+57459,Denebola,Temperature_K,8500,9125
+57459,Denebola,InnerHZ,2.8,3.52912958527216
+57459,Denebola,OuterHZ,6.5,10.083227386491885
+78498,Enlil,SpectralClass,G8,K1
+78498,Enlil,Magnitude,5.428,5.205
+78498,Enlil,StarMass,0.84,0.96
+78498,Enlil,StarRadius_Rsun,0.883,0.996
+78498,Enlil,Temperature_K,5320,5568
+78498,Enlil,DistanceFromOrigin_pc,25.2586,27.8631
+78498,Enlil,InnerHZ,0.59,0.778589033254737
+78498,Enlil,OuterHZ,1.41,2.224540095013534
+15471,Eridani,SpectralClass,G8,G6
+15471,Eridani,Magnitude,5.354,5.364
+15471,Eridani,StarMass,0.7,0.89
+15471,Eridani,StarRadius_Rsun,0.92,0.844
+15471,Eridani,Temperature_K,5400,5568
+15471,Eridani,DistanceFromOrigin_pc,6.0442,6.0414
+15471,Eridani,InnerHZ,0.61,0.6598083272059174
+15471,Eridani,OuterHZ,1.46,1.885166649159764
+3814,Eta Cassiopeia,SpectralClass,G0,F9
+3814,Eta Cassiopeia,Magnitude,4.586,4.577
+3814,Eta Cassiopeia,StarMass,0.97,1.06
+3814,Eta Cassiopeia,StarRadius_Rsun,1.038,1.028
+3814,Eta Cassiopeia,Temperature_K,5970,6047
+3814,Eta Cassiopeia,DistanceFromOrigin_pc,5.9532,5.923
+3814,Eta Cassiopeia,InnerHZ,0.84,0.9480341788545475
+3814,Eta Cassiopeia,OuterHZ,1.96,2.708669082441564
+73788,Fermi,SpectralClass,G5,G2
+73788,Fermi,Magnitude,4.225,4.696
+73788,Fermi,StarMass,0.93,1.03
+73788,Fermi,StarRadius_Rsun,0.931,1.059
+73788,Fermi,Temperature_K,5575,5797
+73788,Fermi,DistanceFromOrigin_pc,31.5554,32.8628
+73788,Fermi,InnerHZ,1.01,0.8973966165048219
+73788,Fermi,OuterHZ,2.4,2.56399033287092
+86469,Feynman,SpectralClass,F6,F5
+86469,Feynman,Magnitude,3.626,3.687
+86469,Feynman,StarMass,1.26,1.3
+86469,Feynman,StarRadius_Rsun,1.171,1.295
+86469,Feynman,Temperature_K,6510,6615
+86469,Feynman,DistanceFromOrigin_pc,17.6524,17.1692
+86469,Feynman,InnerHZ,1.26,1.4283357870308886
+86469,Feynman,OuterHZ,2.92,4.080959391516824
+72377,Foucault,Magnitude,3.343,3.265
+72377,Foucault,StarMass,1.97,1.44
+72377,Foucault,StarRadius_Rsun,1.24,1.476
+72377,Foucault,Temperature_K,7005,6827
+72377,Foucault,DistanceFromOrigin_pc,22.9777,23.9382
+72377,Foucault,InnerHZ,1.4,1.7352864472871448
+72377,Foucault,OuterHZ,3.23,4.957961277963271
+72341,Freya,SpectralClass,G2,F9
+72341,Freya,Magnitude,4.563,4.567
+72341,Freya,StarMass,1.0,1.06
+72341,Freya,StarRadius_Rsun,1.001,1.046
+72341,Freya,Temperature_K,5830,6011
+72341,Freya,DistanceFromOrigin_pc,18.1719,18.1983
+72341,Freya,InnerHZ,0.85,0.9525987077137054
+72341,Freya,OuterHZ,2.01,2.721710593467729
+75489,Gamma Vulpes,SpectralClass,K2,G9
+75489,Gamma Vulpes,Magnitude,5.322,5.427
+75489,Gamma Vulpes,StarMass,0.74,0.87
+75489,Gamma Vulpes,StarRadius_Rsun,0.807,0.934
+75489,Gamma Vulpes,Temperature_K,4870,5218
+75489,Gamma Vulpes,DistanceFromOrigin_pc,20.5847,19.5534
+75489,Gamma Vulpes,InnerHZ,0.63,0.6410630560743411
+75489,Gamma Vulpes,OuterHZ,1.54,1.8316087316409744
+57767,Groombridge,SpectralClass,G8,K1
+57767,Groombridge,Magnitude,6.627,6.638
+57767,Groombridge,StarMass,0.66,0.69
+57767,Groombridge,StarRadius_Rsun,0.682,0.54
+57767,Groombridge,Temperature_K,4760,5436
+57767,Groombridge,DistanceFromOrigin_pc,9.0908,9.1718
+57767,Groombridge,InnerHZ,0.32,0.4024712897260091
+57767,Groombridge,OuterHZ,0.76,1.1499179706457403
+84147,Guniibuu,Magnitude,5.464,6.207
+84147,Guniibuu,StarMass,0.74,0.76
+84147,Guniibuu,StarRadius_Rsun,0.807,0.739
+84147,Guniibuu,Temperature_K,4870,5134
+84147,Guniibuu,DistanceFromOrigin_pc,5.9333,5.9523
+84147,Guniibuu,InnerHZ,0.59,0.4908649311299775
+84147,Guniibuu,OuterHZ,1.44,1.4024712317999355
+73489,Hawking,SpectralClass,G5,G8
+73489,Hawking,Magnitude,5.126,5.075
+73489,Hawking,StarMass,0.91,0.95
+73489,Hawking,StarRadius_Rsun,0.91,1.012
+73489,Hawking,Temperature_K,5575,5436
+73489,Hawking,DistanceFromOrigin_pc,33.0251,34.2845
+73489,Hawking,InnerHZ,0.67,0.7540099928701777
+73489,Hawking,OuterHZ,1.58,2.1543142653433645
+71731,Heinlein,Magnitude,2.561,2.468
+71731,Heinlein,StarMass,1.99,1.73
+71731,Heinlein,StarRadius_Rsun,1.261,2.034
+71731,Heinlein,Temperature_K,7170,6989
+71731,Heinlein,DistanceFromOrigin_pc,18.2715,19.1639
+71731,Heinlein,InnerHZ,1.99,2.504740303874317
+71731,Heinlein,OuterHZ,4.56,7.156400868212335
+83344,Heisenberg,SpectralClass,F9,F8
+83344,Heisenberg,Magnitude,4.424,5.022
+83344,Heisenberg,StarMass,1.14,0.98
+83344,Heisenberg,StarRadius_Rsun,1.081,2.026
+83344,Heisenberg,Temperature_K,6015,3980
+83344,Heisenberg,DistanceFromOrigin_pc,20.6653,20.59
+83344,Heisenberg,InnerHZ,0.91,0.8089770278554371
+83344,Heisenberg,OuterHZ,2.14,2.3113629367298203
+73082,Huygens,SpectralClass,F8,F7
+73082,Huygens,Magnitude,3.437,3.403
+73082,Huygens,StarMass,1.18,1.39
+73082,Huygens,StarRadius_Rsun,1.111,1.56
+73082,Huygens,Temperature_K,6180,6435
+73082,Huygens,DistanceFromOrigin_pc,33.7721,34.3072
+73082,Huygens,InnerHZ,1.4,1.6280381616671384
+73082,Huygens,OuterHZ,3.27,4.651537604763253
+70096,Hyla,Magnitude,5.073,5.06
+70096,Hyla,StarMass,1.05,0.95
+70096,Hyla,StarRadius_Rsun,1.031,0.879
+70096,Hyla,Temperature_K,5915,5853
+70096,Hyla,DistanceFromOrigin_pc,17.1908,17.461
+70096,Hyla,InnerHZ,0.67,0.7591848918249927
+70096,Hyla,OuterHZ,1.58,2.1690996909285505
+119135,Indum,Magnitude,6.185,6.158
+119135,Indum,StarMass,0.76,0.77
+119135,Indum,StarRadius_Rsun,0.829,0.755
+119135,Indum,Temperature_K,5035,5134
+119135,Indum,DistanceFromOrigin_pc,5.9852,5.9478
+119135,Indum,InnerHZ,0.42,0.5019185609602602
+119135,Indum,OuterHZ,1.02,1.4340530313150293
+62328,Ixyll,SpectralClass,G7,G5
+62328,Ixyll,Magnitude,5.146,5.815
+62328,Ixyll,StarMass,0.87,0.82
+62328,Ixyll,StarRadius_Rsun,0.899,1.258
+62328,Ixyll,Temperature_K,5405,4206
+62328,Ixyll,DistanceFromOrigin_pc,16.9318,17.0982
+62328,Ixyll,InnerHZ,0.67,0.5613436929680106
+62328,Ixyll,OuterHZ,1.59,1.6038391227657447
+79431,Jaffa,SpectralClass,G1,G2
+79431,Jaffa,Magnitude,4.775,4.748
+79431,Jaffa,StarMass,1.05,1.02
+79431,Jaffa,StarRadius_Rsun,1.031,1.041
+79431,Jaffa,Temperature_K,5915,5778
+79431,Jaffa,DistanceFromOrigin_pc,13.9006,14.1369
+79431,Jaffa,InnerHZ,0.77,0.8762580785873956
+79431,Jaffa,OuterHZ,1.81,2.5035945102497017
+71517,Kang,SpectralClass,G6,G8
+71517,Kang,Magnitude,5.368,5.363
+71517,Kang,StarMass,0.9,0.89
+71517,Kang,StarRadius_Rsun,0.915,0.872
+71517,Kang,Temperature_K,5490,5478
+71517,Kang,DistanceFromOrigin_pc,23.6798,23.7318
+71517,Kang,InnerHZ,0.6,0.6600997004184157
+71517,Kang,OuterHZ,1.43,1.885999144052616
+24129,Kapteyn's Star,SpectralClass,M0,M1
+24129,Kapteyn's Star,Magnitude,10.898,10.879
+24129,Kapteyn's Star,StarMass,0.28,0.32
+24129,Kapteyn's Star,StarRadius_Rsun,0.291,0.253
+24129,Kapteyn's Star,Temperature_K,3570,3677
+24129,Kapteyn's Star,DistanceFromOrigin_pc,3.9136,3.9339
+24129,Kapteyn's Star,InnerHZ,0.05,0.0863984983485164
+24129,Kapteyn's Star,OuterHZ,0.129,0.2468528524243328
+55539,Katydid,SpectralClass,A9,A7
+55539,Katydid,Magnitude,2.05,1.942
+55539,Katydid,StarMass,1.78,2.04
+55539,Katydid,StarRadius_Rsun,1.381,2.043
+55539,Katydid,Temperature_K,7525,8241
+55539,Katydid,DistanceFromOrigin_pc,25.2398,26.5206
+55539,Katydid,InnerHZ,2.49,3.4983485351329557
+55539,Katydid,OuterHZ,5.73,9.9952815289513
+65150,Khayyam,SpectralClass,G4,K2
+65150,Khayyam,Magnitude,6.31,7.082
+65150,Khayyam,StarMass,0.95,0.64
+65150,Khayyam,StarRadius_Rsun,0.954,0.796
+65150,Khayyam,Temperature_K,5660,4136
+65150,Khayyam,DistanceFromOrigin_pc,16.1421,16.5793
+65150,Khayyam,InnerHZ,0.39,0.3434361227192838
+65150,Khayyam,OuterHZ,0.91,0.9812460649122394
+77022,Kryx,Magnitude,4.002,4.039
+77022,Kryx,StarMass,1.1,1.2
+77022,Kryx,StarRadius_Rsun,1.051,1.37
+77022,Kryx,Temperature_K,6000,5929
+77022,Kryx,DistanceFromOrigin_pc,12.1236,11.9159
+77022,Kryx,InnerHZ,1.09,1.2145252564658089
+77022,Kryx,OuterHZ,2.56,3.470072161330883
+56828,Kumasi,Magnitude,5.396,5.434
+56828,Kumasi,StarMass,0.84,0.87
+56828,Kumasi,StarRadius_Rsun,0.883,0.847
+56828,Kumasi,Temperature_K,5320,5468
+56828,Kumasi,DistanceFromOrigin_pc,9.6116,9.5762
+56828,Kumasi,InnerHZ,0.6,0.6389603948876301
+56828,Kumasi,OuterHZ,1.43,1.825601128250372
+57584,Lantana,SpectralClass,F8,F9
+57584,Lantana,Magnitude,3.397,3.393
+57584,Lantana,StarMass,1.18,1.4
+57584,Lantana,StarRadius_Rsun,1.111,1.704
+57584,Lantana,Temperature_K,6130,6170
+57584,Lantana,DistanceFromOrigin_pc,10.929,11.0018
+57584,Lantana,InnerHZ,1.43,1.6358433021672614
+57584,Lantana,OuterHZ,3.35,4.673838006192176
+55476,Leonis,SpectralClass,F2,F1
+55476,Leonis,Magnitude,2.129,2.145
+55476,Leonis,StarMass,1.54,1.86
+55476,Leonis,StarRadius_Rsun,2.099,2.435
+55476,Leonis,Temperature_K,7170,6880
+55476,Leonis,DistanceFromOrigin_pc,23.6741,23.6101
+55476,Leonis,InnerHZ,2.43,2.9065420132885262
+55476,Leonis,OuterHZ,5.56,8.304405752252933
+89684,Leviathan,Magnitude,1.889,1.848
+89684,Leviathan,StarMass,2.0,2.09
+89684,Leviathan,StarRadius_Rsun,5.895,6.055
+89684,Leviathan,Temperature_K,4890,4892
+89684,Leviathan,DistanceFromOrigin_pc,18.5427,19.0689
+89684,Leviathan,InnerHZ,3.08,3.652631304869161
+89684,Leviathan,OuterHZ,7.47,10.436089442483317
+91156,Linnaeus,SpectralClass,G5,G6
+91156,Linnaeus,Magnitude,5.266,5.285
+91156,Linnaeus,StarMass,0.93,0.9
+91156,Linnaeus,StarRadius_Rsun,0.931,0.821
+91156,Linnaeus,Temperature_K,5575,5749
+91156,Linnaeus,DistanceFromOrigin_pc,13.0842,13.0309
+91156,Linnaeus,InnerHZ,0.63,0.6843127548591532
+91156,Linnaeus,OuterHZ,1.49,1.9551792995975803
+36107,Luyten's Star,SpectralClass,M1,M3
+36107,Luyten's Star,Magnitude,11.94,11.981
+36107,Luyten's Star,StarMass,0.26,0.25
+36107,Luyten's Star,StarRadius_Rsun,0.35,0.152
+36107,Luyten's Star,Temperature_K,3150,3690
+36107,Luyten's Star,DistanceFromOrigin_pc,3.8028,3.7861
+36107,Luyten's Star,InnerHZ,0.03,0.0520075869424862
+36107,Luyten's Star,OuterHZ,0.08,0.1485931055499605
+74746,Maal,Magnitude,3.017,3.599
+74746,Maal,StarMass,1.18,1.36
+74746,Maal,StarRadius_Rsun,1.111,3.214
+74746,Maal,Temperature_K,6180,4384
+74746,Maal,DistanceFromOrigin_pc,25.3812,25.1285
+74746,Maal,InnerHZ,1.7,1.5575659009100569
+74746,Maal,OuterHZ,3.97,4.450188288314449
+118988,Maheo,SpectralClass,K4,K5
+118988,Maheo,Magnitude,7.84,7.67
+118988,Maheo,StarMass,0.71,0.55
+118988,Maheo,StarRadius_Rsun,0.763,0.518
+118988,Maheo,Temperature_K,4540,4379
+118988,Maheo,DistanceFromOrigin_pc,6.6999,6.7486
+118988,Maheo,InnerHZ,0.2,0.2502025607588328
+118988,Maheo,OuterHZ,0.5,0.7148644593109509
+60805,Marduk,SpectralClass,G1,G0
+60805,Marduk,Magnitude,4.411,4.562
+60805,Marduk,StarMass,1.05,1.07
+60805,Marduk,StarRadius_Rsun,1.031,1.077
+60805,Marduk,Temperature_K,5915,5929
+60805,Marduk,DistanceFromOrigin_pc,24.6488,24.2957
+60805,Marduk,InnerHZ,0.91,0.9545732093300724
+60805,Marduk,OuterHZ,2.14,2.727352026657349
+83021,Masada,SpectralClass,G2,G0
+83021,Masada,Magnitude,4.933,3.587
+83021,Masada,StarMass,1.0,1.33
+83021,Masada,StarRadius_Rsun,1.001,1.71
+83021,Masada,Temperature_K,5830,5890
+83021,Masada,DistanceFromOrigin_pc,27.383,50.8769
+83021,Masada,InnerHZ,0.72,1.495545505770851
+83021,Masada,OuterHZ,1.69,4.2729871593452895
+68463,Moloch,SpectralClass,G8,G6
+68463,Moloch,Magnitude,5.12,5.371
+68463,Moloch,StarMass,0.84,0.89
+68463,Moloch,StarRadius_Rsun,0.883,0.891
+68463,Moloch,Temperature_K,5320,5411
+68463,Moloch,DistanceFromOrigin_pc,16.9836,15.1179
+68463,Moloch,InnerHZ,0.68,0.6579149653748483
+68463,Moloch,OuterHZ,1.62,1.879757043928138
+67711,Muphrid,StarMass,1.1,1.76
+67711,Muphrid,StarRadius_Rsun,1.051,2.77
+67711,Muphrid,Temperature_K,6100,6088
+67711,Muphrid,InnerHZ,2.28,2.58840450829
+67711,Muphrid,OuterHZ,5.32,7.395441452257144
+88327,Narion,DistanceFromOrigin_pc,5.0833,5.1133
+84604,Nemeria,Magnitude,4.599,4.57
+84604,Nemeria,StarMass,1.1,1.06
+84604,Nemeria,StarRadius_Rsun,1.051,1.087
+84604,Nemeria,Temperature_K,6000,5890
+84604,Nemeria,DistanceFromOrigin_pc,14.3259,14.5863
+84604,Nemeria,InnerHZ,0.83,0.951095967705466
+84604,Nemeria,OuterHZ,1.95,2.7174170505870463
+91756,Newton,SpectralClass,F6,F5
+91756,Newton,Magnitude,2.773,2.756
+91756,Newton,StarMass,1.26,1.62
+91756,Newton,StarRadius_Rsun,1.171,2.011
+91756,Newton,Temperature_K,6510,6576
+91756,Newton,DistanceFromOrigin_pc,19.2088,19.352
+91756,Newton,InnerHZ,1.87,2.192828526981337
+91756,Newton,OuterHZ,4.33,6.26522436280382
+119217,Nikola,SpectralClass,G5,M2
+119217,Nikola,Magnitude,11.127,10.662
+119217,Nikola,StarMass,0.93,0.34
+119217,Nikola,StarRadius_Rsun,0.931,0.272
+119217,Nikola,Temperature_K,5575,3734
+119217,Nikola,DistanceFromOrigin_pc,13.8889,17.3608
+119217,Nikola,InnerHZ,0.04,0.0954659673440444
+119217,Nikola,OuterHZ,0.1,0.2727599066972697
+77172,Nirah,SpectralClass,G8,K0
+77172,Nirah,Magnitude,5.799,5.743
+77172,Nirah,StarMass,0.84,0.85
+77172,Nirah,StarRadius_Rsun,0.883,0.884
+77172,Nirah,Temperature_K,5320,5221
+77172,Nirah,DistanceFromOrigin_pc,21.2899,21.665
+77172,Nirah,InnerHZ,0.6,0.607626941055634
+77172,Nirah,OuterHZ,1.42,1.7360769744446685
+58401,Nirvana,SpectralClass,K0,G8
+58401,Nirvana,Magnitude,5.01,5.02
+58401,Nirvana,StarMass,0.78,0.96
+58401,Nirvana,StarRadius_Rsun,0.851,1.062
+58401,Nirvana,Temperature_K,5200,5373
+58401,Nirvana,DistanceFromOrigin_pc,12.7632,12.7655
+58401,Nirvana,InnerHZ,0.72,0.7732472969715276
+58401,Nirvana,OuterHZ,1.73,2.209277991347222
+119220,Oborum Prime,Temperature_K,4705,4409
+119144,Oborum Proxima,SpectralClass,M2,M1
+119144,Oborum Proxima,Magnitude,11.023,10.92
+119144,Oborum Proxima,StarMass,0.31,0.32
+119144,Oborum Proxima,StarRadius_Rsun,0.42,0.247
+119144,Oborum Proxima,Temperature_K,3700,3691
+119144,Oborum Proxima,DistanceFromOrigin_pc,6.9711,7.2429
+119144,Oborum Proxima,InnerHZ,0.05,0.0847601167386013
+119144,Oborum Proxima,OuterHZ,0.12,0.2421717621102895
+72957,Olympus,Magnitude,6.888,6.871
+72957,Olympus,StarMass,0.71,0.66
+72957,Olympus,StarRadius_Rsun,0.763,0.71
+72957,Olympus,Temperature_K,4540,4493
+72957,Olympus,DistanceFromOrigin_pc,5.8407,5.8864
+72957,Olympus,InnerHZ,0.31,0.3615148012300726
+72957,Olympus,OuterHZ,0.77,1.0328994320859215
+74309,Ophion,SpectralClass,K0,G9
+74309,Ophion,Magnitude,5.344,5.414
+74309,Ophion,StarMass,0.78,0.88
+74309,Ophion,StarRadius_Rsun,0.851,0.886
+74309,Ophion,Temperature_K,5200,5373
+74309,Ophion,DistanceFromOrigin_pc,17.6704,17.265
+74309,Ophion,InnerHZ,0.65,0.6448326258874123
+74309,Ophion,OuterHZ,1.56,1.8423789311068923
+103879,Piazzi,Magnitude,7.488,7.492
+103879,Piazzi,StarMass,0.69,0.57
+103879,Piazzi,StarRadius_Rsun,0.741,0.57
+103879,Piazzi,Temperature_K,4375,4348
+103879,Piazzi,DistanceFromOrigin_pc,3.4859,3.4966
+103879,Piazzi,InnerHZ,0.24,0.2715945118121846
+103879,Piazzi,OuterHZ,0.59,0.7759843194633848
+61748,Porrima,SpectralClass,F0,F1
+61748,Porrima,Magnitude,2.402,2.34
+61748,Porrima,StarMass,1.56,1.78
+61748,Porrima,StarRadius_Rsun,1.4,2.089
+61748,Porrima,Temperature_K,7500,7101
+61748,Porrima,DistanceFromOrigin_pc,11.6848,12.0202
+61748,Porrima,InnerHZ,2.12,2.655766500374062
+61748,Porrima,OuterHZ,4.87,7.587904286783035
+37173,Procyon A,SpectralClass,F5,WD
+37173,Procyon A,Magnitude,2.671,2.641
+37173,Procyon A,StarMass,1.5,1.66
+37173,Procyon A,StarRadius_Rsun,2.047,1.998
+37173,Procyon A,Temperature_K,6530,6776
+37173,Procyon A,InnerHZ,1.94,2.312626154338373
+37173,Procyon A,OuterHZ,4.49,6.607503298109638
+118493,Procyon B,Temperature_K,7740,14087
+119059,Proxima Ternion,SpectralClass,F6,F5
+119059,Proxima Ternion,Magnitude,3.069,2.659
+119059,Proxima Ternion,StarMass,1.26,1.65
+119059,Proxima Ternion,StarRadius_Rsun,1.17,2.166
+119059,Proxima Ternion,Temperature_K,6510,6481
+119059,Proxima Ternion,DistanceFromOrigin_pc,24.3294,27.6878
+119059,Proxima Ternion,InnerHZ,1.63,2.293863863533758
+119059,Proxima Ternion,OuterHZ,3.78,6.553896752953594
+68415,Pyraas,SpectralClass,G5,G7
+68415,Pyraas,Magnitude,4.977,5.012
+68415,Pyraas,StarMass,0.93,0.96
+68415,Pyraas,StarRadius_Rsun,0.931,1.005
+68415,Pyraas,Temperature_K,5575,5534
+68415,Pyraas,DistanceFromOrigin_pc,26.8312,26.6456
+68415,Pyraas,InnerHZ,0.71,0.7760759406240254
+68415,Pyraas,OuterHZ,1.68,2.2173598303543582
+69766,Rana,SpectralClass,F5,F3
+69766,Rana,Magnitude,3.327,3.312
+69766,Rana,StarMass,1.3,1.42
+69766,Rana,StarRadius_Rsun,1.201,1.405
+69766,Rana,Temperature_K,6675,6923
+69766,Rana,DistanceFromOrigin_pc,26.096,26.1053
+69766,Rana,InnerHZ,1.44,1.6974928945496592
+69766,Rana,OuterHZ,3.32,4.849979698713312
+85769,Rasalhague,Magnitude,1.215,1.205
+85769,Rasalhague,StarMass,2.1,2.42
+85769,Rasalhague,StarRadius_Rsun,2.599,2.652
+85769,Rasalhague,Temperature_K,8040,8571
+85769,Rasalhague,DistanceFromOrigin_pc,14.8966,14.8965
+85769,Rasalhague,InnerHZ,3.63,4.9131797389440965
+85769,Rasalhague,OuterHZ,8.35,14.037656396983133
+118819,Rivera,SpectralClass,G5,M2
+118819,Rivera,Magnitude,10.595,9.519
+118819,Rivera,StarMass,0.93,0.44
+118819,Rivera,StarRadius_Rsun,0.931,0.428
+118819,Rivera,Temperature_K,5575,3870
+118819,Rivera,DistanceFromOrigin_pc,12.0482,19.4155
+118819,Rivera,InnerHZ,0.05,0.1615947910387196
+118819,Rivera,OuterHZ,0.13,0.4616994029677703
+64587,Rutherford,Magnitude,3.967,4.584
+64587,Rutherford,StarMass,1.1,1.09
+64587,Rutherford,StarRadius_Rsun,1.051,2.073
+64587,Rutherford,Temperature_K,6000,4352
+64587,Rutherford,DistanceFromOrigin_pc,17.5591,17.5878
+64587,Rutherford,InnerHZ,1.11,0.98966909800725
+64587,Rutherford,OuterHZ,2.6,2.8276259943064286
+72717,Sagan,SpectralClass,M2,M3
+72717,Sagan,Magnitude,10.187,10.161
+72717,Sagan,StarMass,0.37,0.38
+72717,Sagan,StarRadius_Rsun,0.506,0.341
+72717,Sagan,Temperature_K,3420,3740
+72717,Sagan,DistanceFromOrigin_pc,9.6533,9.9478
+72717,Sagan,InnerHZ,0.05,0.1202287425082358
+72717,Sagan,OuterHZ,0.12,0.3435106928806739
+85264,Sakharov,Magnitude,11.094,11.116
+85264,Sakharov,StarMass,0.37,0.3
+85264,Sakharov,StarRadius_Rsun,0.506,0.225
+85264,Sakharov,Temperature_K,3600,3697
+85264,Sakharov,DistanceFromOrigin_pc,4.5404,4.5528
+85264,Sakharov,InnerHZ,0.046,0.0774739103293398
+85264,Sakharov,OuterHZ,0.119,0.2213540295123995
+87902,Schrodinger,SpectralClass,F3,F2
+87902,Schrodinger,Magnitude,2.76,2.808
+87902,Schrodinger,StarMass,1.46,1.6
+87902,Schrodinger,StarRadius_Rsun,1.96,1.701
+87902,Schrodinger,Temperature_K,7005,7067
+87902,Schrodinger,DistanceFromOrigin_pc,23.5512,22.9979
+87902,Schrodinger,InnerHZ,1.83,2.141739975776036
+87902,Schrodinger,OuterHZ,4.22,6.119257073645817
+76835,Serpentis,Magnitude,0.852,0.845
+76835,Serpentis,StarMass,0.74,2.63
+76835,Serpentis,StarRadius_Rsun,11.997,12.053
+76835,Serpentis,Temperature_K,4870,4368
+76835,Serpentis,DistanceFromOrigin_pc,22.6757,22.7557
+76835,Serpentis,InnerHZ,4.97,5.799222802170493
+76835,Serpentis,OuterHZ,12.07,16.56920800620141
+67063,Shoza,Magnitude,3.532,3.522
+67063,Shoza,StarMass,1.22,1.35
+67063,Shoza,StarRadius_Rsun,1.141,1.476
+67063,Shoza,Temperature_K,6360,6435
+67063,Shoza,DistanceFromOrigin_pc,15.6176,15.6135
+67063,Shoza,InnerHZ,1.33,1.540921589104672
+67063,Shoza,OuterHZ,3.01,4.402633111727635
+32263,Sirius,SpectralClass,A1,A0
+32263,Sirius,Magnitude,1.454,1.434
+32263,Sirius,StarMass,2.06,2.29
+32263,Sirius,StarRadius_Rsun,1.711,1.71
+32263,Sirius,Temperature_K,9940,10125
+32263,Sirius,DistanceFromOrigin_pc,2.637,2.6371
+32263,Sirius,InnerHZ,3.97,4.4197683975028665
+32263,Sirius,OuterHZ,9.28,12.627909707151048
+0,SOL,Magnitude,4.85,4.83
+0,SOL,InnerHZ,0.75,0.84
+0,SOL,OuterHZ,1.76,2.4
+79252,Sparta,SpectralClass,G8,G9
+79252,Sparta,Magnitude,4.817,5.411
+79252,Sparta,StarMass,0.84,0.88
+79252,Sparta,StarRadius_Rsun,0.883,0.898
+79252,Sparta,Temperature_K,5320,5342
+79252,Sparta,DistanceFromOrigin_pc,23.5851,24.3139
+79252,Sparta,InnerHZ,0.78,0.6458538801090524
+79252,Sparta,OuterHZ,1.87,1.8452968003115784
+72407,Strix,Magnitude,5.055,3.433
+72407,Strix,StarMass,0.78,1.41
+72407,Strix,StarRadius_Rsun,0.851,3.731
+72407,Strix,Temperature_K,5200,4228
+72407,Strix,DistanceFromOrigin_pc,29.4374,30.0375
+72407,Strix,InnerHZ,0.71,1.681679746680256
+72407,Strix,OuterHZ,1.69,4.804799276229303
+69479,Syrma,Magnitude,2.335,2.365
+69479,Syrma,StarMass,1.22,1.77
+69479,Syrma,StarRadius_Rsun,1.141,2.624
+69479,Syrma,Temperature_K,6345,6300
+69479,Syrma,DistanceFromOrigin_pc,22.2371,22.0258
+69479,Syrma,InnerHZ,2.31,2.625488112920848
+69479,Syrma,OuterHZ,5.37,7.5013946083452785
+8087,Tau Ceti,Magnitude,5.678,5.687
+8087,Tau Ceti,StarMass,0.78,0.82
+8087,Tau Ceti,StarRadius_Rsun,0.794,0.736
+8087,Tau Ceti,Temperature_K,5320,5534
+8087,Tau Ceti,DistanceFromOrigin_pc,3.65,3.6522
+8087,Tau Ceti,InnerHZ,0.53,0.5686309008294597
+8087,Tau Ceti,OuterHZ,1.26,1.624659716655599
+119224,The Pup,Magnitude,11.18,11.307
+119224,The Pup,StarMass,1.02,0.22
+119224,The Pup,StarRadius_Rsun,0.008,0.015
+119224,The Pup,Temperature_K,25200,10516
+119224,The Pup,DistanceFromOrigin_pc,2.6371,2.6703
+119224,The Pup,InnerHZ,0.0,0.0408168615793371
+119224,The Pup,OuterHZ,0.0,0.1166196045123919
+82337,Tidacha,Magnitude,5.466,5.512
+82337,Tidacha,StarMass,0.84,0.86
+82337,Tidacha,StarRadius_Rsun,0.883,0.837
+82337,Tidacha,Temperature_K,5320,5404
+82337,Tidacha,DistanceFromOrigin_pc,17.2507,16.8122
+82337,Tidacha,InnerHZ,0.58,0.6164597164228416
+82337,Tidacha,OuterHZ,1.38,1.761313475493833
+119223,Toliman,Magnitude,5.739,5.682
+119223,Toliman,StarMass,0.91,0.86
+119223,Toliman,StarRadius_Rsun,0.864,0.972
+119223,Toliman,Temperature_K,5260,5051
+119223,Toliman,DistanceFromOrigin_pc,1.3246,1.3475
+119223,Toliman,InnerHZ,0.52,0.6248922543938022
+119223,Toliman,OuterHZ,1.25,1.7854064411251491
+118742,Ursae Majoris,Temperature_K,6000,6213
+119222,Ursae Minoris,Magnitude,4.711,5.064
+119222,Ursae Minoris,StarMass,0.86,0.95
+119222,Ursae Minoris,StarRadius_Rsun,0.921,0.889
+119222,Ursae Minoris,Temperature_K,5700,5815
+119222,Ursae Minoris,DistanceFromOrigin_pc,10.416,8.7346
+119222,Ursae Minoris,InnerHZ,0.79,0.757747047001595
+119222,Ursae Minoris,OuterHZ,1.85,2.1649915628617
+119198,Valo,SpectralClass,K5,K4
+119198,Valo,Magnitude,7.468,7.53
+119198,Valo,StarMass,0.69,0.56
+119198,Valo,StarRadius_Rsun,0.741,0.565
+119198,Valo,Temperature_K,4375,4328
+119198,Valo,DistanceFromOrigin_pc,5.0855,5.1058
+119198,Valo,InnerHZ,0.24,0.2668957793129715
+119198,Valo,OuterHZ,0.6,0.762559369465633
+3820,Van Maanen's Star,Magnitude,14.222,14.199
+3820,Van Maanen's Star,StarMass,0.7,0.11
+3820,Van Maanen's Star,StarRadius_Rsun,0.014,0.011
+3820,Van Maanen's Star,Temperature_K,6130,6187
+3820,Van Maanen's Star,DistanceFromOrigin_pc,4.2631,4.3144
+3820,Van Maanen's Star,InnerHZ,0.01,0.010774655875267
+3820,Van Maanen's Star,OuterHZ,0.02,0.0307847310721914
+90979,Vega,StarMass,2.14,2.78
+90979,Vega,StarRadius_Rsun,2.361,2.507
+90979,Vega,Temperature_K,9600,10125
+90979,Vega,DistanceFromOrigin_pc,7.6786,7.6787
+90979,Vega,InnerHZ,6.6,6.479899133029578
+90979,Vega,OuterHZ,15.53,18.51399752294165
+63947,Verne,SpectralClass,G5,G3
+63947,Verne,Magnitude,4.694,5.361
+63947,Verne,StarMass,0.93,0.91
+63947,Verne,StarRadius_Rsun,0.931,1.493
+63947,Verne,Temperature_K,5575,4287
+63947,Verne,DistanceFromOrigin_pc,26.1304,26.4077
+63947,Verne,InnerHZ,0.82,0.6918475386071297
+63947,Verne,OuterHZ,1.93,1.976707253163228
+64720,Volii,SpectralClass,G5,G6
+64720,Volii,Magnitude,5.079,5.084
+64720,Volii,StarMass,0.93,0.95
+64720,Volii,StarRadius_Rsun,0.931,0.949
+64720,Volii,Temperature_K,5575,5602
+64720,Volii,DistanceFromOrigin_pc,8.555,8.5344
+64720,Volii,InnerHZ,0.68,0.750677268469621
+64720,Volii,OuterHZ,1.62,2.1447921956274887
+118720,Wolf,Magnitude,16.556999,16.598
+118720,Wolf,StarMass,0.09,0.07
+118720,Wolf,StarRadius_Rsun,0.16,0.014
+118720,Wolf,Temperature_K,2860,3134
+118720,Wolf,DistanceFromOrigin_pc,2.3913,2.4086
+118720,Wolf,InnerHZ,0.0,0.0035697967944388
+118720,Wolf,OuterHZ,0.0,0.0101994194126823
+84636,Xi Ophiuchi,Magnitude,3.193,3.169
+84636,Xi Ophiuchi,StarMass,1.37,1.47
+84636,Xi Ophiuchi,StarRadius_Rsun,1.4,1.438
+84636,Xi Ophiuchi,Temperature_K,3900,7072
+84636,Xi Ophiuchi,DistanceFromOrigin_pc,17.355,17.5187
+84636,Xi Ophiuchi,InnerHZ,1.74,1.8129260443624384
+84636,Xi Ophiuchi,OuterHZ,4.43,5.1797886981783945
+59092,Zelazny,SpectralClass,G0,G4
+59092,Zelazny,Magnitude,5.076,4.868
+59092,Zelazny,StarMass,1.1,0.99
+59092,Zelazny,StarRadius_Rsun,1.051,1.113
+59092,Zelazny,Temperature_K,6000,5436
+59092,Zelazny,DistanceFromOrigin_pc,22.2222,24.7923
+59092,Zelazny,InnerHZ,0.67,0.8290793868520804
+59092,Zelazny,OuterHZ,1.56,2.368798248148801
+119147,Zeta Ophiuchi,DistanceFromOrigin_pc,17.3974,17.4922
+54712,Zosma,SpectralClass,A4,A5
+54712,Zosma,Magnitude,1.294,1.264
+54712,Zosma,StarMass,2.2,2.39
+54712,Zosma,StarRadius_Rsun,2.139,2.581
+54712,Zosma,Temperature_K,8900,8571
+54712,Zosma,DistanceFromOrigin_pc,17.9145,17.9147
+54712,Zosma,InnerHZ,3.65,4.780677632579005
+54712,Zosma,OuterHZ,8.41,13.65907895022573

@@ -1,0 +1,33 @@
+star_id,original,used,query,correction
+73018,,HIP 73245,HIP 73245,"Gliese preferred, used HIP fallback instead"
+73082,,HIP 73309,HIP 73309,"Gliese preferred, used HIP fallback instead"
+73489,,HIP 73717,HIP 73717,"Gliese preferred, used HIP fallback instead"
+73788,Fermi,HD 134066A,HD 134066A,"bgs 'gl' id incorrect, used id_remap"
+75150,,HIP 75379,HIP 75379,"Gliese preferred, used HIP fallback instead"
+60776,,HIP 60965,HIP 60965,"Gliese preferred, used HIP fallback instead"
+74746,,HIP 74975,HIP 74975,"Gliese preferred, used HIP fallback instead"
+55539,,HIP 55705,HIP 55705,"Gliese preferred, used HIP fallback instead"
+86475,,HIP 86742,HIP 86742,"Gliese preferred, used HIP fallback instead"
+86475,Cebalrai,Celebrai,HIP 86742,proper name changed (full_name_remap applied)
+71517,,HIP 71743,HIP 71743,"Gliese preferred, used HIP fallback instead"
+55476,Leonis,GJ 9359A,HIP 55642,"bgs 'gl' id incorrect, used id_remap"
+55476,,HIP 55642,HIP 55642,"Gliese preferred, used HIP fallback instead"
+119225,119058,119225,GJ 9540A,"bgs id changed, used starID_corrections"
+69479,Haldeman,Syrma,GJ 9473,proper name changed (full_name_remap applied)
+65150,Athena,Khayyam,GJ 3782,proper name changed (full_name_remap applied)
+65147,Minerva,Al-Battani,GJ 3781,proper name changed (full_name_remap applied)
+119144,Oborum Secondus,Oborum Proxima,GJ 667C,proper name changed (full_name_remap applied)
+119220,119143,119220,GJ 667A,"bgs id changed, used starID_corrections"
+119135,Apollo,Indum,GJ 663B,proper name changed (full_name_remap applied)
+84147,Artemis,Guniibuu,GJ 663A,proper name changed (full_name_remap applied)
+119223,71453,119223,GJ 559B,"bgs id changed, used starID_corrections"
+69793,Bannoc Prime,Bannoc,GJ 544A,proper name changed (full_name_remap applied)
+119221,118043,119221,GJ 53B,"bgs id changed, used starID_corrections"
+65515,Nara,Bara,GJ 512.1,proper name changed (full_name_remap applied)
+59020,Corvi,Alchiba,GJ 455.3,proper name changed (full_name_remap applied)
+57767,Groombridge 1830,Groombridge,GJ 451,proper name changed (full_name_remap applied)
+57584,Lantana,Lantana,GJ 449,proper name changed (full_name_remap applied)
+119222,118743,119222,GJ 423B,"bgs id changed, used starID_corrections"
+3814,Eta Cassiopeiae,Eta Cassiopeia,GJ 34A,proper name changed (full_name_remap applied)
+119224,118441,119224,GJ 244B,"bgs id changed, used starID_corrections"
+119224,Canis,The Pup,GJ 244B,proper name changed (full_name_remap applied)
