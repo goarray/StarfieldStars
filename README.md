@@ -6,7 +6,7 @@ This repository contains data and scripts used to reconcile **Starfield’s in-g
 
 ### `NewStars.csv`
 
-* Derived from `NewStarsData.csv`.
+* Derived from `NewStarsData_WithMismatches.csv`.
 * Updated, hand edited, final star table.
 * Incorporates additional *Starfield* metadata.
 
